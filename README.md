@@ -2,7 +2,7 @@
 
 The best way to learn about me is on my website: [codysehl.net](http://codysehl.net/work).
 
-I have a [blog](http://blog.codysehl.net) where I write about technical and non-technical topics and I make [short videos about software development](https://www.youtube.com/@codysehl). 
+I have a [blog](http://blog.codysehl.net) where I write and a [youtube channel](https://www.youtube.com/@codysehl) where I post short videos about software.
 
 <!--
 **lalunamel/lalunamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
